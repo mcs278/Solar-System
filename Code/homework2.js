@@ -143,7 +143,7 @@ window.onload = function init() {
 		else if(e.keyCode===65) { // "a" attach camera to the planet
 			attach_detach = true;
 		}
-		else if(e.keyCode===71) { // "g"  deattach camera
+		else if(e.keyCode===68) { // "g"  deattach camera
 			attach_detach = false;
 		}
 	};
