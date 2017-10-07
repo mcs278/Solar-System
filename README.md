@@ -1,8 +1,5 @@
 Mai Saleh
-904-863-797
 
-Assignment 2
-i am a couple mins late as i did the detach with "g" instead of "d" so i fixed it really fast
 grade version v2.0
 browser: microsoft Edge
 ---->(1)please first click on the canvas to enable the keys of keyboard to work
