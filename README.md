@@ -1,12 +1,7 @@
-Mai Saleh
 
-grade version v2.0
 browser: microsoft Edge
 ---->(1)please first click on the canvas to enable the keys of keyboard to work
 ---->(2)use the numbers in the letters keyboard not the numberpad 
-
-what I have done::
-I have done all the requirements except that the shade from the sun on the planets is white and not orangy/ reddish
 
 the orbital speed, rotation, size and orbit radius are as follows in order:
 --------sun :  0,1300,4,0
